@@ -1,0 +1,25 @@
+          * * * * * * * * * * * * * * * * * * * * * * *
+          *                                           *
+          *    INSTITUTO TECNOLÓGICO DE COSTA RICA    *
+          *                                           *
+          *             II semestre 2017              *
+          *                                           *
+          *               Estudiantes:                *
+          *                                           *
+          *             Carlos Andrés Solano          *
+          *               Jill Carranza               *
+          *               Randall Bonilla             * 
+          *               Juan Pablo Ortiz            *
+          *                                           *
+          *                                           *
+          * * * * * * * * * * * * * * * * * * * * * * *
+ 
+   Bienvenido al analizador de procesador  
+ 
+ 
+          Opciones a escoger
+ 
+a. Info Sistema
+b. Rendimiento
+c. Salir
+ 
